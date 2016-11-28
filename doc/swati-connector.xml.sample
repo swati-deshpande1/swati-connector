@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(swati:greet) -->
+    <swati:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(swati:greet) -->
